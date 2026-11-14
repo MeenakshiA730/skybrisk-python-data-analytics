@@ -1,6 +1,5 @@
 # SkyBrisk Python for Data Analytics Internship
 
-Weekly tasks completed by **Meenakshi A** during the SkyBrisk Data Analytics internship. Each week folder holds the Python script and a concept summary.
 
 | Week | Topic | Client project | Folder |
 |------|-------|----------------|--------|
